@@ -11,7 +11,7 @@ isil-isil/isil-isil is a ✨ special ✨ repository because its `README.md` (thi
 # Bonjour et bienvenue sur mon profil GitHub ! 👋
 
 
-- 🔭 Actuellement en train de créer un clone de Spotify
+- 🔭 Actuellement en train de créer un clone de Netflix
 - 🌱 En ce moment je m'initie à **React**
 - 📫 Comment me joindre : isil.isil.pro@gmail.com
 
