@@ -12,7 +12,7 @@ isil-isil/isil-isil is a ✨ special ✨ repository because its `README.md` (thi
 
 
 - 🔭 Actuellement en train de créer un clone de Netflix
-- 🌱 En ce moment je m'initie à **React**
+- 🌱 En ce moment je m'initie à **Angular**
 - 📫 Comment me joindre : isil.isil.pro@gmail.com
 
 
